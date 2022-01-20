@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20lines%20of%20code-blue)
 
@@ -30,15 +30,15 @@ Sunday       1 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 47 mins        █████████████████████░░░░   86.36% 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+Go                       2 hrs 10 mins       ████████████████████████░   99.46% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.0%
+Linux                    2 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -56,5 +56,5 @@ C++                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhaoalpha/zhaoalpha/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/01/2022
+ Last Updated on 20/01/2022
 <!--END_SECTION:waka-->

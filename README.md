@@ -30,13 +30,13 @@ Sunday       1 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 34 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -54,5 +54,5 @@ C++                      1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhaoalpha/zhaoalpha/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 00:57:33 UTC
+ Last Updated on 30/01/2022 01:02:07 UTC
 <!--END_SECTION:waka-->

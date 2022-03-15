@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20lines%20of%20code-blue)
 
@@ -30,15 +30,13 @@ Sunday       2 commits      ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 mins              █████████████████░░░░░░░░   70.66% 
-Go                       2 mins              ███████░░░░░░░░░░░░░░░░░░   29.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   5 mins              █████████████████░░░░░░░░   70.66% 
-VS Code                  2 mins              ███████░░░░░░░░░░░░░░░░░░   29.34%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -57,5 +55,5 @@ Shell                    1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhaoalpha/zhaoalpha/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/03/2022 01:13:58 UTC
+ Last Updated on 15/03/2022 01:16:25 UTC
 <!--END_SECTION:waka-->

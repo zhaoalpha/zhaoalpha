@@ -30,15 +30,13 @@ Sunday       3 commits      ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CMake                    6 mins              ██████████████████░░░░░░░   75.3% 
-JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.7% 
-sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -57,5 +55,5 @@ Shell                    1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhaoalpha/zhaoalpha/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2022 01:20:52 UTC
+ Last Updated on 25/03/2022 01:19:02 UTC
 <!--END_SECTION:waka-->
